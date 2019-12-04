@@ -21,5 +21,6 @@
     <meta name="twitter:creator" content="@Tael67" />
     <meta name="theme-color" content="#4F4F4F">
     <link rel="manifest" href="{base_url}/resources/manifest.json" />
+    <script data-ad-client="ca-pub-3241270777052923" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </head>
 <body class="{$class}">
